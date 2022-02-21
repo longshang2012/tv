@@ -479,7 +479,7 @@
         {
           "name": "CCTV-2高清",
           "urls": [
-            "http://iptv.tvfix.org/hls/cctv2hd.m3u8"
+            "http://iptv.tvfix.org/hls/cctv2hd.m3u8",
             "http://111.20.33.93/TVOD/88888893/224/3221226231/index.m3u8",
             "http://111.11.121.184:6610/030000001001/cctv-2/1.m3u8?channel-id=ystenlive",
             "http://111.20.33.93/TVOD/88888893/224/3221226195/index.m3u8",
@@ -512,7 +512,7 @@
           "name": "CCTV-4中文国际高清",
           "urls": [
             "http://iptv.tvfix.org/hls/cctv4hd.m3u8",
-            "http://111.11.121.184:6610/030000001001/cctv-4/1.m3u8?channel-id=ystenlive",",
+            "http://111.11.121.184:6610/030000001001/cctv-4/1.m3u8?channel-id=ystenlive",
             "http://111.20.33.93/TVOD/88888893/224/3221226223/index.m3u8",
             "http://111.20.33.93/TVOD/88888893/224/3221226191/index.m3u8",
             "http://117.148.179.160/PLTV/88888888/224/3221231654/index.m3u8",
