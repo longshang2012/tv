@@ -461,117 +461,325 @@
         {
           "name": "CCTV-1高清",
           "urls": [
-            "http://iptv.tvfix.org/hls/cctv1hd.m3u8"
+            "http://iptv.tvfix.org/hls/cctv1hd.m3u8",
+            "http://111.20.33.93/TVOD/88888893/224/3221226231/index.m3u8",
+            "http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv1/1.m3u8?channel-id=ystenlive",
+            "http://117.148.179.155/TVOD/88888888/224/3221231468/index.m3u8",
+            "http://117.148.179.155/TVOD/88888888/224/3221231471/index.m3u8",
+            "http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv1/1.m3u8?channel-id=ystenlive",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225642/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225918/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225762/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225618/index.m3u8",
+            "http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8",
+            "http://117.148.179.155/PLTV/88888888/224/3221231471/index.m3u8",
+            "http://111.11.121.184:6610/030000001001/hdcctv01/1.m3u8?channel-id=ystenlive"
             ]
          },
         {
           "name": "CCTV-2高清",
           "urls": [
             "http://iptv.tvfix.org/hls/cctv2hd.m3u8"
+            "http://111.20.33.93/TVOD/88888893/224/3221226231/index.m3u8",
+            "http://111.11.121.184:6610/030000001001/cctv-2/1.m3u8?channel-id=ystenlive",
+            "http://111.20.33.93/TVOD/88888893/224/3221226195/index.m3u8",
+            "https://cctv5cncc.v.wscdns.com/live/cctv2_1/index.m3u8?adapt=0&BR=audio",
+            "http://117.148.179.147/TVOD/88888888/224/3221231678/index.m3u8",
+            "http://117.148.179.156/TVOD/88888888/224/3221232362/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225643/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225619/index.m3u8",
+            "http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8",
+            "http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8"
             ]
          },
         {
           "name": "CCTV-3高清",
           "urls": [
-            "http://iptv.tvfix.org/hls/cctv3hd.m3u8"
+            "http://iptv.tvfix.org/hls/cctv3hd.m3u8",
+            "http://117.148.179.140/TVOD/88888888/224/3221231528/index.m3u8",
+            "http://111.20.33.93/TVOD/88888893/224/3221226397/index.m3u8",
+            "http://cctv.v.myalicdn.com/live/cctv3_1audio.m3u8",
+            "http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv3/1.m3u8?channel-id=ystenlive",
+            "http://117.148.179.183/TVOD/88888888/224/3221231682/index.m3u8",
+            "http://111.11.121.184:6610/030000001001/cctv-3/1.m3u8?channel-id=ystenlive",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225634/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225647/index.m3u8",
+            "http://117.148.179.140/PLTV/88888888/224/3221231528/index.m3u8",
+            "http://117.148.179.183/PLTV/88888888/224/3221231682/index.m3u8"
             ]
          },
         {
-          "name": "CCTV-4高清",
+          "name": "CCTV-4中文国际高清",
           "urls": [
-            "http://iptv.tvfix.org/hls/cctv4hd.m3u8"
+            "http://iptv.tvfix.org/hls/cctv4hd.m3u8",
+            "http://111.11.121.184:6610/030000001001/cctv-4/1.m3u8?channel-id=ystenlive",",
+            "http://111.20.33.93/TVOD/88888893/224/3221226223/index.m3u8",
+            "http://111.20.33.93/TVOD/88888893/224/3221226191/index.m3u8",
+            "http://117.148.179.160/PLTV/88888888/224/3221231654/index.m3u8",
+            "http://117.148.179.160/TVOD/88888888/224/3221231654/index.m3u8",
             ]
          },
         {
           "name": "CCTV-4K超高清",
           "urls": [
-            "http://iptv.tvfix.org/hls/cctv4k.m3u8"
+            "http://iptv.tvfix.org/hls/cctv4k.m3u8",
+            "http://ye23.win/iptv/4k.cctv.php",
+            "https://p.ggiptv.com/v/4k.m3u8"
             ]
          },
         {
           "name": "CCTV-5高清",
           "urls": [
-            "http://iptv.tvfix.org/hls/cctv5hd.m3u8"
+            "http://iptv.tvfix.org/hls/cctv5hd.m3u8",
+            "http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv5/1.m3u8?channel-id=ystenlive",
+            "http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv5/1.m3u8?channel-id=ystenlive",
+            "http://111.11.121.184:6610/030000001001/cctv-5/1.m3u8?channel-id=ystenlive",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225633/index.m3u8",
+            "http://117.148.179.142/PLTV/88888888/224/3221232440/index.m3u8"
             ]
          },
         {
           "name": "CCTV-5+高清",
           "urls": [
-            "http://iptv.tvfix.org/hls/cctv5phd.m3u8"
+            "http://iptv.tvfix.org/hls/cctv5phd.m3u8",
+            "http://111.20.33.93/TVOD/88888893/224/3221226221/index.m3u8",
+            "http://117.148.179.136/TVOD/88888888/224/3221231459/index.m3u8",
+            "http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv05plus/1.m3u8?channel-id=ystenlive",
+            "http://117.148.179.139/TVOD/88888888/224/3221231535/index.m3u8",
+            "http://111.11.121.184:6610/030000001001/hdcctv05plus/1.m3u8?channel-id=ystenlive",
+            "http://117.148.179.139/PLTV/88888888/224/3221231535/index.m3u8",
+            "http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225706/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225649/index.m3u8"
             ]
          },
         {
           "name": "CCTV-6高清",
           "urls": [
-            "http://iptv.tvfix.org/hls/cctv6hd.m3u8"
+            "http://iptv.tvfix.org/hls/cctv6hd.m3u8",
+            "http://111.20.33.93/TVOD/88888893/224/3221226393/index.m3u8",
+            "http://cctv.v.myalicdn.com/live/cctv6_1audio.m3u8",
+            "http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv6/1.m3u8?channel-id=ystenlive",
+            "http://111.11.121.184:6610/030000001001/cctv-6/1.m3u8?channel-id=ystenlive",
+            "http://117.148.179.153/TVOD/88888888/224/3221231724/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225650/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225632/index.m3u8",
+            "http://117.148.179.153/PLTV/88888888/224/3221231724/index.m3u8"
             ]
          },
         {
           "name": "CCTV-7高清",
           "urls": [
-            "http://iptv.tvfix.org/hls/cctv7hd.m3u8"
+            "http://iptv.tvfix.org/hls/cctv7hd.m3u8",
+            "http://111.11.121.184:6610/030000001001/cctv-7/1.m3u8?channel-id=ystenlive",
+            "https://cctv5cncc.v.wscdns.com/live/cctv7_1/index.m3u8?adapt=0&BR=audio",
+            "http://117.148.179.160/TVOD/88888888/224/3221231633/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225644/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225624/index.m3u8",
+            "http://117.148.179.160/PLTV/88888888/224/3221231633/index.m3u8"
             ]
          },
         {
           "name": "CCTV-8高清",
           "urls": [
-            "http://iptv.tvfix.org/hls/cctv8hd.m3u8"
+            "http://iptv.tvfix.org/hls/cctv8hd.m3u8",
+            "http://111.20.33.93/TVOD/88888893/224/3221226391/index.m3u8",
+            "http://cctv.v.myalicdn.com/live/cctv8_1audio.m3u8",
+            "http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv8/1.m3u8?channel-id=ystenlive",
+            "http://111.11.121.184:6610/030000001001/cctv-8/1.m3u8?channel-id=ystenlive",
+            "http://117.148.179.160/TVOD/88888888/224/3221231694/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225635/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225631/index.m3u8",
+            "http://117.148.179.160/PLTV/88888888/224/3221231694/index.m3u8"
             ]
          },
         {
           "name": "CCTV-9高清",
           "urls": [
-            "http://iptv.tvfix.org/hls/cctv9hd.m3u8"
+            "http://iptv.tvfix.org/hls/cctv9hd.m3u8",
+            "http://111.20.33.93/TVOD/88888893/224/3221226197/index.m3u8",
+            "https://cctv5cncc.v.wscdns.com/live/cctvjilu_1/index.m3u8?adapt=0&BR=audio",
+            "http://111.11.121.184:6610/030000001001/cctv-news/1.m3u8?channel-id=ystenlive",
+            "http://117.148.179.162/TVOD/88888888/224/3221231697/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225646/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225626/index.m3u8",
+            "http://117.148.179.162/PLTV/88888888/224/3221231697/index.m3u8"
             ]
          },
         {
           "name": "CCTV-10高清",
           "urls": [
-            "http://iptv.tvfix.org/hls/cctv10hd.m3u8"
+            "http://iptv.tvfix.org/hls/cctv10hd.m3u8",
+            "https://cctv5cncc.v.wscdns.com/live/cctv10_1/index.m3u8?adapt=0&BR=audio",
+            "http://117.148.179.175/TVOD/88888888/224/3221231666/index.m3u8",
+            "http://111.11.121.184:6610/030000001001/cctv-10/1.m3u8?channel-id=ystenlive",
+            "http://117.148.179.164/TVOD/88888888/224/3221232492/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225636/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225627/index.m3u8",
+            "http://117.148.179.175/PLTV/88888888/224/3221231666/index.m3u8",
+            "http://117.148.179.164/PLTV/88888888/224/3221232492/index.m3u8"
             ]
          },
         {
           "name": "CCTV-11高清",
           "urls": [
-            "http://iptv.tvfix.org/hls/cctv11hd.m3u8"
+            "http://iptv.tvfix.org/hls/cctv11hd.m3u8",
+            "https://cctv5cncc.v.wscdns.com/live/cctv11_1/index.m3u8?adapt=0&BR=audio",
+            "http://111.11.121.184:6610/030000001001/cctv-11/1.m3u8?channel-id=ystenlive",
+            "http://117.148.179.164/TVOD/88888888/224/3221231711/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225628/index.m3u8",
+            "http://117.148.179.164/PLTV/88888888/224/3221231711/index.m3u8"
             ]
          },
         {
           "name": "CCTV-12高清",
           "urls": [
-            "http://iptv.tvfix.org/hls/cctv12hd.m3u8"
+            "http://iptv.tvfix.org/hls/cctv12hd.m3u8",
+            "https://cctv5cncc.v.wscdns.com/live/cctv12_1/index.m3u8?adapt=0&BR=audio",
+            "http://111.11.121.184:6610/030000001001/cctv-12/1.m3u8?channel-id=ystenlive",
+            "http://117.148.179.150/TVOD/88888888/224/3221231660/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225637/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225629/index.m3u8",
+            "http://117.148.179.150/PLTV/88888888/224/3221231660/index.m3u8"
             ]
          },
         {
           "name": "CCTV-13高清",
           "urls": [
-            "http://iptv.tvfix.org/hls/cctv13hd.m3u8"
+            "http://iptv.tvfix.org/hls/cctv13hd.m3u8",
+            "https://cctv5cncc.v.wscdns.com/live/cctv13_1/index.m3u8?adapt=0&BR=audio",
+            "http://111.11.121.184:6610/030000001001/cctv-13/1.m3u8?channel-id=ystenlive",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225638/index.m3u8",
+            "http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8"
             ]
          },
         {
           "name": "CCTV-14高清",
           "urls": [
-            "http://iptv.tvfix.org/hls/cctv14hd.m3u8"
+            "http://iptv.tvfix.org/hls/cctv14hd.m3u8",
+            "http://111.20.33.93/TVOD/88888893/224/3221226193/index.m3u8",
+            "https://cctv5cncc.v.wscdns.com/live/cctvchild_1/index.m3u8?adapt=0&BR=audio",
+            "http://117.148.179.182/TVOD/88888888/224/3221231648/index.m3u8",
+            "http://111.11.121.184:6610/030000001001/cctv-14/1.m3u8?channel-id=ystenlive",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225640/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225639/index.m3u8"
             ]
          },
         {
           "name": "CCTV-15高清",
           "urls": [
-            "http://iptv.tvfix.org/hls/cctv15hd.m3u8"
+            "http://iptv.tvfix.org/hls/cctv15hd.m3u8",
+            "https://cctv5cncc.v.wscdns.com/live/cctv15_1/index.m3u8?adapt=0&BR=audio",
+            "http://111.11.121.184:6610/030000001001/cctv-15/1.m3u8?channel-id=ystenlive",
+            "http://117.148.179.169/TVOD/88888888/224/3221231693/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225641/index.m3u8",
+            "http://117.148.179.169/PLTV/88888888/224/3221231693/index.m3u8"
             ]
          },
         {
           "name": "CCTV-16高清",
           "urls": [
-            "http://iptv.tvfix.org/hls/cctv16hd.m3u8"
+            "http://iptv.tvfix.org/hls/cctv16hd.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8",
+            "http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=ystenlive",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8",
+            "http://117.148.179.172/PLTV/88888888/224/3221231540/index.m3u8",
+            "http://zzy789.xyz/douyu1.php?id=10011042",
+            "http://117.148.179.162/TVOD/88888888/224/3221231604/index.m3u8"
             ]
          },
         {
           "name": "CCTV-17高清",
           "urls": [
-            "http://iptv.tvfix.org/hls/cctv17hd.m3u8"
+            "http://iptv.tvfix.org/hls/cctv17hd.m3u8",
+            "http://111.20.33.93/TVOD/88888893/224/3221226198/index.m3u8",
+            "https://cctv5cncc.v.wscdns.com/live/cctv17_1/index.m3u8?adapt=0&BR=audio",
+            "http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?channel-id=ystenlive",
+            "http://117.148.179.167/TVOD/88888888/224/3221231772/index.m3u8",
+            "http://117.148.179.167/PLTV/88888888/224/3221231772/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225907/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225909/index.m3u8",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221225908/index.m3u8"
             ]
          },
+        {
+          "name": "CCTV-8K超高清",
+          "urls": [
+            "http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8"
+            ]
+         },
+        {
+          "name": "CCTV-世界地理",
+          "urls": [
+            "http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?channel-id=ystenlive",
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8"
+            ]
+         },
+        {
+          "name": "CCTV-央视台球",
+          "urls": [
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8",
+            "http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000569&playtoken=ABCDEFGH&auth=no"
+            ]
+         },  
+        {
+          "name": "CCTV-女性时尚",
+          "urls": [
+            "http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000570&playtoken=ABCDEFGH&auth=no",
+            "http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8"
+            ]
+         }, 
+        {
+          "name": "CCTV-怀旧剧场",
+          "urls": [
+            "http://117.148.179.137/TVOD/88888888/224/3221231547/index.m3u8",
+            "http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000576&playtoken=ABCDEFGH&auth=no",
+            "http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8"
+            ]
+         },
+        {
+          "name": "CCTV-放映室",
+          "urls": [
+            "http://117.148.179.160/TVOD/88888888/224/3221231619/index.m3u8"
+            ]
+         }, 
+        {
+          "name": "CCTV-新科动漫",
+          "urls": [
+            "http://117.148.179.160/PLTV/88888888/224/3221231619/index.m3u8"
+            ]
+         }, 
+        {
+          "name": "CCTV-第一剧场",
+          "urls": [
+            "http://117.148.179.158/TVOD/88888888/224/3221231544/index.m3u8",
+            "http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000571&playtoken=ABCDEFGH&auth=no",
+            "http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8"
+            ]
+         }, 
+        {
+          "name": "CCTV-风云剧场",
+          "urls": [
+            "http://117.148.179.167/TVOD/88888888/224/3221231598/index.m3u8",
+            "http://117.148.179.167/PLTV/88888888/224/3221231598/index.m3u8",
+            "http://117.148.179.156/TVOD/88888888/224/3221231537/index.m3u8"
+            ]
+         }, 
+        {
+          "name": "CCTV-风云足球",
+          "urls": [
+            "http://117.148.179.156/PLTV/88888888/224/3221231537/index.m3u8",
+            "http://cctvalic.v.myalicdn.com/live/xinkedongman_1/index.m3u8?adapt=0&BR=audio",
+            "http://117.148.179.167/TVOD/88888888/224/3221231616/index.m3u8"
+            ]
+         }, 
+        {
+          "name": "CCTV-高尔夫网球",
+          "urls": [
+            "http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8",
+            "http://117.148.179.147/PLTV/88888888/224/3221231561/index.m3u8"
+            ]
+         }, 
         {
           "name": "CGTN高清",
           "urls": [
