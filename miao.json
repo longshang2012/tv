@@ -569,7 +569,7 @@
             "http://111.20.33.93/TVOD/88888893/224/3221226223/index.m3u8",
             "http://111.20.33.93/TVOD/88888893/224/3221226191/index.m3u8",
             "http://117.148.179.160/PLTV/88888888/224/3221231654/index.m3u8",
-            "http://117.148.179.160/TVOD/88888888/224/3221231654/index.m3u8",
+            "http://117.148.179.160/TVOD/88888888/224/3221231654/index.m3u8"
             ]
          },
         {
@@ -771,14 +771,12 @@
         {
           "name": "CCTV-央视台球",
           "urls": [
-            "http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8",
-            "http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000569&playtoken=ABCDEFGH&auth=no"
+            "http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8"
             ]
          },  
         {
           "name": "CCTV-女性时尚",
           "urls": [
-            "http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000570&playtoken=ABCDEFGH&auth=no",
             "http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8"
             ]
          }, 
@@ -786,7 +784,6 @@
           "name": "CCTV-怀旧剧场",
           "urls": [
             "http://117.148.179.137/TVOD/88888888/224/3221231547/index.m3u8",
-            "http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000576&playtoken=ABCDEFGH&auth=no",
             "http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8"
             ]
          },
@@ -806,7 +803,6 @@
           "name": "CCTV-第一剧场",
           "urls": [
             "http://117.148.179.158/TVOD/88888888/224/3221231544/index.m3u8",
-            "http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000571&playtoken=ABCDEFGH&auth=no",
             "http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8"
             ]
          }, 
@@ -877,22 +873,7 @@
        {
           "name": "北京卫视高清",
           "urls": [
-                 "http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8",
-		   "http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv1/1.m3u8?channel-id=ystenlive",
-		              "http://iptv.tvfix.org/hls/cctv1hd.m3u8",
-            "http://111.20.33.93/TVOD/88888893/224/3221226231/index.m3u8",
-            "http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv1/1.m3u8?channel-id=ystenlive",
-            "http://117.148.179.155/TVOD/88888888/224/3221231468/index.m3u8",
-            "http://117.148.179.155/TVOD/88888888/224/3221231471/index.m3u8",
-            "http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv1/1.m3u8?channel-id=ystenlive",
-            "http://39.135.138.60:18890/TVOD/88888910/224/3221225642/index.m3u8",
-            "http://39.135.138.60:18890/TVOD/88888910/224/3221225918/index.m3u8",
-            "http://39.135.138.60:18890/TVOD/88888910/224/3221225762/index.m3u8",
-            "http://39.135.138.60:18890/TVOD/88888910/224/3221225618/index.m3u8",
-            "http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8",
-            "http://117.148.179.155/PLTV/88888888/224/3221231471/index.m3u8",
-            "http://111.11.121.184:6610/030000001001/hdcctv01/1.m3u8?channel-id=ystenlive",
-		  "http://iptv.tvfix.org/hls/brtv1hd.m3u8"
+            "http://iptv.tvfix.org/hls/brtv1hd.m3u8"
             ]
          },
         {
